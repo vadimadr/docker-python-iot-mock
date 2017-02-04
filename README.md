@@ -1,0 +1,1 @@
+This Docker image allows you to run unit tests for projects that require mraa and upm installed.
